@@ -1,0 +1,30 @@
+.Executors {
+    padding: 64px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.Executors .ant-card {
+    margin-bottom: 16px;
+}
+
+.Executors-Item {
+    padding: 16px;
+    display: flex;
+    flex-direction: row;
+
+    margin-bottom: 16px;
+}
+
+.Executors-Image {
+    margin-right: 32px;
+    border-radius: 50%;
+    height: 100px;
+}
+
+.Executors-Name {
+    font-size: 24px;
+    margin-bottom: 8px;
+}
