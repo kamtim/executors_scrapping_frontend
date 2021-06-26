@@ -1,0 +1,28 @@
+.Executor {
+    display: flex;
+    margin: 60px 300px;
+}
+
+.Executor-Image {
+    margin-right: 32px;
+}
+
+.Executor-Rating {
+    display: flex;
+    align-items: flex-end;
+
+    margin-bottom: 16px;
+}
+
+.Executor-Rating .ant-typography {
+    margin-bottom: 0;
+    margin-left: 16px;
+}
+
+.Executor-Details {
+    margin-top: 16px;
+}
+
+.Executor-Education {
+    margin-top: 16px;
+}

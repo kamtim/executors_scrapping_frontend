@@ -26,5 +26,15 @@ a {
 
 .Executors-Name {
     font-size: 24px;
-    margin-bottom: 8px;
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.Executors-Skills {
+    margin-top: 8px;
+}
+
+.Executors-Select {
+    margin-bottom: 16px;
 }
